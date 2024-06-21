@@ -26,7 +26,7 @@ Make sure you have cloned the backend repository at the link https://github.com/
 To deploy this project locally, follow these steps:
 
 ```bash
-  git https://github.com/AbiyaMakruf/sensevis_backend.git
+  git https://github.com/AbiyaMakruf/sensevis_frontend.git
 ```
 
 ```bash
